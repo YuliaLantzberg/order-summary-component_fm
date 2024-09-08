@@ -101,7 +101,7 @@ body {
 .order-summary__content {
 	display: grid;
 	place-content: center;
-	gap: 2rem;
+	gap: 1.5rem;
 	padding: 3rem;
 }
 
@@ -116,14 +116,14 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	background-color: var(--neutral-blue-100);
-	padding: 0.75rem;
+	padding: 1rem;
 	border-radius: 1rem;
 }
 
 .order-summary__price {
 	display: flex;
 	flex-direction: column;
-	margin-left: -2rem;
+	margin-left: -3rem;
 }
 
 .order-summary__price--title {
