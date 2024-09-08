@@ -87,6 +87,7 @@ body {
 	place-content: center;
 	margin: 2rem;
 	background-color: var(--primary-blue-100);
+	min-height: 100vh;
 }
 
 .order-summary {
