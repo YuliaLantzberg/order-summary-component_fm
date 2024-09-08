@@ -107,7 +107,7 @@ body {
 
 .order-summary__title {
 	color: var(--neutral-blue-800);
-	font-size: 1.5rem;
+	font-size: 1.75rem;
 	font-weight: var(--fw-extra-bold);
 }
 
@@ -116,18 +116,18 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	background-color: var(--neutral-blue-100);
-	padding: 2rem;
+	padding: 1.5rem;
 	border-radius: 1rem;
 }
 
 .order-summary__price {
 	display: flex;
 	flex-direction: column;
-	margin-left: -7rem;
+	margin-left: -5rem;
 }
 
 .order-summary__price--title {
-	font-size: 1rem;
+	font-size: 1.125rem;
 	color: var(--neutral-blue-800);
 	line-height: 1.2;
 }
@@ -154,6 +154,7 @@ body {
 .btn {
 	background-color: var(--primary-blue-500);
 	color: white;
+	font-weight: var(--fw-bold);
 	padding: 0.75rem;
 	border-radius: 0.75rem;
 	border: none;
