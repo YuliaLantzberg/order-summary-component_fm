@@ -101,7 +101,7 @@ body {
 .order-summary__content {
 	display: grid;
 	place-content: center;
-	gap: 1.5rem;
+	gap: 1rem;
 	padding: 3rem;
 }
 
