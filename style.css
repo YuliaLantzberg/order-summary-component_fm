@@ -101,7 +101,7 @@ body {
 .order-summary__content {
 	display: grid;
 	place-content: center;
-	gap: 1.75rem;
+	gap: 1.5rem;
 	padding: 3rem;
 }
 
@@ -154,7 +154,7 @@ body {
 .btn {
 	background-color: var(--primary-blue-500);
 	color: white;
-	padding: 0.5rem;
+	padding: 0.75rem;
 	border-radius: 0.75rem;
 	border: none;
 	box-shadow: 0 1.5rem 0.725rem var(--primary-blue-100);
