@@ -135,7 +135,7 @@ body {
 .order-summary__plan-change {
 	color: var(--primary-blue-500);
 	font-weight: var(--fw-extra-bold);
-	font-size: 0.625rem;
+	/* font-size: 0.625rem; */
 	cursor: pointer;
 	transition: all 0.3s;
 }
